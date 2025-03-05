@@ -1754,6 +1754,7 @@ AddOutputFilter chunkFilter
 		<Item Name="DCMotorControl_v0.vi" Type="VI" URL="../DCMotorControl_v0.vi"/>
 		<Item Name="DCMotorControl_v1.vi" Type="VI" URL="../DCMotorControl_v1.vi"/>
 		<Item Name="DCMotorControl_v1_measure.vi" Type="VI" URL="../DCMotorControl_v1_measure.vi"/>
+		<Item Name="DualMotorControl_v0.vi" Type="VI" URL="../DualMotorControl_v0.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Generic FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/typedefs/Generic FPGA Reference.ctl"/>
