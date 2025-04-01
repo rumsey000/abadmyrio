@@ -189,21 +189,21 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
-			<Item Name="aerial phase.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/aerial phase.vi"/>
-			<Item Name="lookuptable(for_secondNM)_0921.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/lookuptable(for_secondNM)_0921.vi"/>
-			<Item Name="lookuptable_0916.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/lookuptable_0916.vi"/>
-			<Item Name="model correction.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/model correction.vi"/>
-			<Item Name="motor correction.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/motor correction.vi"/>
+			<Item Name="aerial phase.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/aerial phase.vi"/>
+			<Item Name="lookuptable(for_secondNM)_0921.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/lookuptable(for_secondNM)_0921.vi"/>
+			<Item Name="lookuptable_0916.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/lookuptable_0916.vi"/>
+			<Item Name="model correction.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/model correction.vi"/>
+			<Item Name="motor correction.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/motor correction.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="PID_controller.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/PID_controller.vi"/>
+			<Item Name="PID_controller.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/PID_controller.vi"/>
 			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="RSLIP gait.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/RSLIP gait.vi"/>
-			<Item Name="tripod gait (forNM)_0916.vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/tripod gait (forNM)_0916.vi"/>
-			<Item Name="tripod gait (graph).vi" Type="VI" URL="/G/.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/subvi/tripod gait (graph).vi"/>
+			<Item Name="RSLIP gait.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/RSLIP gait.vi"/>
+			<Item Name="tripod gait (forNM)_0916.vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/tripod gait (forNM)_0916.vi"/>
+			<Item Name="tripod gait (graph).vi" Type="VI" URL="../../../../../../.shortcut-targets-by-id/1i5LR2DvN4LV9z1_wCufpwOU1zQkVgeeN/RHex/控制/程式檔/abadmyrio/SubVI/tripod gait (graph).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
